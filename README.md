@@ -16,14 +16,6 @@ react,nodejs,php,docker,express,rabbitmq,ts,tailwind,js,mysql,mongodb
 - [bookfinder](https://github.com/tarunsrinivas4302/bookfinder) - Application to find and explore books. ⭐️ 0 stars, Language: JavaScript.
 - [portfolio](https://github.com/tarunsrinivas4302/portfolio) - My personal portfolio showcasing my work and skills. ⭐️ 0 stars, Language: TypeScript.
 - [movies_clone](https://github.com/tarunsrinivas4302/movies_clone) - A clone of a popular movie streaming platform. ⭐️ 0 stars, Language: JavaScript.
-- [employeeportalusingjdbcandservlets](https://github.com/tarunsrinivas4302/employeeportalusingjdbcandservlets) - A web application for employee management using Java. ⭐️ 0 stars, Language: Java.
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 18  
-👥 **Followers:** 1  
-🔗 **Following:** 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunsrinivas4302&show_icons=true&theme=radical)
 
 ## Recent Activity
 
